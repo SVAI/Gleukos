@@ -1,14 +1,8 @@
-# Gleukos
+# Gleukos Team
 
-*adapted from [NCBI-Hackathons/GoodDoc](https://github.com/NCBI-Hackathons/GoodDoc) with some tweaks for analysis-driven projects*
-
-*instructions in italics can be deleted as sections are filled in*
-
-*most fields are optional, Conclusion and Important Resources are required*
 
 ## Please cite our work -- here is the ICMJE Standard Citation:
-
-### ...and a link to the DOI: *You can make a free DOI with zenodo, synapse, figshare, or other resources <link>*
+https://github.com/SVAI/Gleukos/blob/master/nf.ipynb
 
 
 ## Abstract *: Summarize everything in a few sentences.* 
